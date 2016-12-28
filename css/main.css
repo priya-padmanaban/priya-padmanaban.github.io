@@ -42,18 +42,18 @@ ul.posts li {
     list-style: none;
 }
 
-* {margin: 0; padding: 0;}
+*.project {margin: 0; padding: 0;}
  
-div {
+div.project {
   margin: 20px;
 }
  
-ul {
+ul.project {
   list-style-type: none;
   width: 500px;
 }
  
-h3 {
+h3.project {
   font: bold 20px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
