@@ -35,12 +35,11 @@ footer {
 
 ul { 
     margin: 20px auto 40px; 
-    font-size: 1.1em;
-    line-height: 1.2em;
+    font-size: 1.5em;
 }
 
 ul li {
-    list-style: square;
+    list-style: none;
 }
 
 *.project {margin: 0; padding: 0;}
