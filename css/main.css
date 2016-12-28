@@ -57,21 +57,21 @@ h3 {
   font: bold 20px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
-li.projects img {
+li.project img {
   float: left;
   margin: 0 15px 0 0;
 }
  
-li.projects p {
+li.project p {
   font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
-li.projects {
+li.project {
   padding: 10px;
   overflow: auto;
 }
  
-li.projects:hover {
+li.project:hover {
   background: #eee;
   cursor: pointer;
 }
