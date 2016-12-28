@@ -44,36 +44,36 @@ ul.about li {
     list-style: square;
 }
 
-*.project {margin: 0; padding: 0;}
+* {margin: 0; padding: 0;}
  
-div.project {
+div {
   margin: 20px;
 }
  
-ul.project {
+ul {
   list-style-type: none;
   width: 500px;
 }
  
-h3.project {
+h3 {
   font: bold 20px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
-li.project img {
+li img {
   float: left;
   margin: 0 15px 0 0;
 }
  
-li.project p {
+li p {
   font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
-li.project {
+li {
   padding: 10px;
   overflow: auto;
 }
  
-li.project:hover {
+li:hover {
   background: #eee;
   cursor: pointer;
 }
