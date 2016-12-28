@@ -33,14 +33,14 @@ footer {
     font-size: .8em;
 }
 
-ul { 
+ul.about { 
     margin: 20px auto 40px; 
     font-size: 1.1em;
     line-height: 1.2em;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-ul li {
+ul.about li {
     list-style: square;
 }
 
