@@ -36,59 +36,41 @@ footer {
 
 <!-- everything below this line is for the projects page -->
 
-.project{
-
-    * {margin: 0; padding: 0;}
-
-    div {
-        margin: 20px;
-    }
+* {margin: 0; padding: 0;}
  
-    ul {
-        list-style-type: none;
-        width: 500px;
-    }
+div.project {
+  margin: 20px;
+}
  
-    h3 {
-        font: bold 20px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    }
+ul.project {
+  list-style-type: none;
+  width: 500px;
+}
  
-    li img {
-        float: left;
-        margin: 0 15px 0 0;
-    }
+h3.project {
+  font: bold 20px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
  
-    li p {
-        font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    }
+li.project img {
+  float: left;
+  margin: 0 15px 0 0;
+}
  
-    li {
-        padding: 10px;
-        overflow: auto;
-    }
+li.project p {
+  font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
  
-    li:hover {
-        background: #eee;
-        cursor: pointer;
-    }
+li.project {
+  padding: 10px;
+  overflow: auto;
+}
+ 
+li.project:hover {
+  background: #eee;
+  cursor: pointer;
+}
 
-    p {
-        font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
-        color: #333;
-    }
-
-    h1 {
-        font-size: 2.5em;
-        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    }
-
-    a {
-        text-decoration: none;
-        color: #999;
-    }
-
-    a:hover {
-        text-decoration: none;
-    }
-
+p.project {
+  font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #333;
 }
