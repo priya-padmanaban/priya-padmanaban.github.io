@@ -28,15 +28,24 @@ p {
     line-height: 1.3em;
     color: #333;
 }
+
+ul {
+    list-style-type: square;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 1.3em;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 
+
+
 <!-- everything below this line is for the projects page -->
 
-*.project {margin: 0; padding: 0;}
+<!-- *.project {margin: 0; padding: 0;} -->
  
 div.project {
   margin: 20px;
