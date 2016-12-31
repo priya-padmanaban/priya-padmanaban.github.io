@@ -36,7 +36,7 @@ footer {
 
 <!-- everything below this line is for the projects page -->
 
-* {margin: 0; padding: 0;}
+*.project {margin: 0; padding: 0;}
  
 div.project {
   margin: 20px;
