@@ -77,4 +77,6 @@ li.project:hover {
 p.project {
   font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: #333;
+  margin: 0;
+  padding: 0;
 }
