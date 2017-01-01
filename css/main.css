@@ -69,11 +69,6 @@ li.project p {
   font: 200 12px/1.5 "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
  
-li.project {
-  padding: 10px;
-  overflow: auto;
-}
- 
 li.project:hover {
   background: #eee;
   cursor: pointer;
